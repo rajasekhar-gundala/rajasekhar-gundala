@@ -27,18 +27,18 @@ I specialize in building secure, self-healing infrastructure using a **GitOps-dr
 
 ### 📈 Featured Projects
 
-#### [🔭 AI-Powered Observability Dashboard](https://github.com/your-username/astro-ai-dashboard)
+#### [🔭 AI-Powered Observability Dashboard](https://github.com/rajasekhar-gundala/astro-ai-dashboard)
 An **Astro-based** monitoring portal that fetches logs from **ClickHouse**, analyzes them via **Ollama**, and suggests fixes for **IIS** and **K8s** issues.
 * **Tech:** Astro, Node.js, OTel, Ollama API.
 
-#### [🏗️ GitOps-IIS-Modernization](https://github.com/your-username/ansible-iis-otel)
+#### [🏗️ GitOps-IIS-Modernization](https://github.com/rajasekhar-gundala/ansible-iis-otel)
 Automated instrumentation of legacy IIS farms using **Ansible** to inject OTel agents and secure traffic via **Caddy**.
 * **Tech:** Ansible, Windows Server, Caddy, OTel.
 
 ---
 
 ### 📬 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajasekhar-gundala)
 - 📧 [itsraj@outlook.com](mailto:itsraj@outlook.com)
 - 📍 Hyderabad, India
 
