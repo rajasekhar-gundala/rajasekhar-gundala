@@ -20,20 +20,20 @@ I specialize in designing resilient cloud infrastructure, enterprise telemetry s
 * **Enterprise Observability:** Architecting robust APM and SIEM pipelines using **OpenTelemetry, GreptimeDB, Prometheus, and Grafana/Perses** for full-stack visibility.
 * **Platform Engineering:** Deploying secure, multi-tenant backends and reverse proxies utilizing **Docker Compose, Caddy, PocketBase, and Valkey**.
 * **AI Automation:** Integrating local language models and RAG pipelines (via **LanceDB, Groq API, and llama.cpp**) for automated root-cause analysis and content generation.
-* **Modern Web Development:** Building blazing-fast dashboards and websites using **Astro, Tailwind CSS, Python FastAPI, and Rust (Axum)**.
+* **Modern Web Development:** Building blazing-fast dashboards and websites using **Astro, Tailwind CSS, HTMX, Python FastAPI, and Rust (Axum)**.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### **Infrastructure, DevOps & Observability**
-`Docker` `Caddy` `PowerShell` `OpenTelemetry` `Prometheus` `Grafana` `Perses` `Splunk` `Dynatrace` `Jaeger` `VictoriaMetrics` `ClickHouse` `IIS`
+`Docker` `Caddy` `PowerShell` `OpenTelemetry` `Prometheus` `Grafana` `Perses` `Splunk` `Dynatrace` `Jaeger` `Greptimedb` `VictoriaMetrics` `ClickHouse` `IIS`
 
 ### **Web Platforms & Backend**
-`Astro` `Node.js` `Python` `FastAPI` `Rust` `Axum` `Tailwind CSS`
+`Astro` `Node.js` `Python` `FastAPI` `Rust` `Axum` `Tailwind CSS` `HTMX`
 
 ### **Databases & AI Integration**
-`LanceDB` `PocketBase` `Valkey` `SQLite` `Prisma` `llama.cpp` `Groq API` `RAG`
+`LanceDB` `PocketBase` `Valkey` `SQLite` `PostgeSQL` `Prisma` `llama.cpp` `Groq API` `RAG`
 
 ---
 
