@@ -8,8 +8,8 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&v=1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&v=1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&v=2" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&v=2" height="165" alt="Top Languages" />
 </p>
 
 ---
