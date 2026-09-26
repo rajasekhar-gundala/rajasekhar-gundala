@@ -7,10 +7,10 @@
 
 <br />
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C3D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C3D1D9" alt="Top Languages" />
+</p>
 
 ---
 
