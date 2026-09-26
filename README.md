@@ -2,14 +2,14 @@
   <h1>👋 Hi, I'm Rajasekhar Gundala</h1>
   <p><b>Senior Infrastructure & Web Platform Leader | Observability Architect | DevOps Engineer</b></p>
   
-  <img src="https://profile-counter.glitch.me/rajasekhar-gundala/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rajasekhar-gundala&label=Profile%20Views&color=58A6FF&style=flat" alt="Visitor Count" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajasekhar-gundala&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasekhar-gundala&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
 </div>
 
 ---
